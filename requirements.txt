@@ -1,0 +1,10 @@
+Pyrogram==1.4.16
+TgCrypto
+hachoir
+Pillow
+humanfriendly
+motor
+aiofiles
+aiohttp
+dnspython
+psutil
